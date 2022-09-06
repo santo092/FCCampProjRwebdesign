@@ -1,0 +1,32 @@
+#main{
+    text-align: center;
+    font-family: system-ui;
+  }
+
+  h1{
+    float:center;
+  }
+  #img-div{
+    background-color: rgb(236, 232, 232);
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  #image{
+    max-width: 70%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+  }
+  #img-caption{}
+  #tribute-info{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 20px;
+  }
+  #tribute-link{
+    margin:0;
+    color: darkgreen;
+  }
+  
+  
