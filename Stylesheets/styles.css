@@ -29,4 +29,10 @@
     color: darkgreen;
   }
   
+
+/* survey form css */
+
+body.survey{
+  text-align: center;
+}
   
